@@ -8,7 +8,7 @@ trust: 70:64:FE:E4:E0:F3:60:F1:B4:51:E1:FA:12:5C:E0:B3:DB:DF:96:33:39:B9:2E:E5:C
 url: https://queue.stage.build2.org
 email: users@build2.org
 summary: build2 staging queue package repository
-description: \
+description:\
 This repository contains packages that are being staged for preliminary
 testing with the staged build2 toolchain.
 
@@ -17,7 +17,7 @@ REPOSITORY POLICIES
 This section is transient and volatile; packages can be added or removed at
 any time and no history of these changes is kept.
 \
-certificate: \
+certificate:\
 -----BEGIN CERTIFICATE-----
 MIIDNDCCAhygAwIBAgIJAOcDp4evE+zJMA0GCSqGSIb3DQEBCwUAMDUxFzAVBgNV
 BAoMDkNvZGUgU3ludGhlc2lzMRowGAYDVQQDDBFuYW1lOioqYnVpbGQyLm9yZzAe
