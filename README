@@ -1,3 +1,9 @@
-This is a git repository of the build2 staging queue package repository. Note
-that the build2 staging is transient and volatile and package additions/removals
-are not tracked in this git repository.
+This is a git repository of the queue.stage.build2.org package repository.
+Note that queue.stage.build2.org is transient and volatile and not all package
+additions/removals are tracked in this git repository. Note also that old
+history may be trimmed from time to time.
+
+The purpose of this repository is to serve as queue.cppget.org but for the
+staged version of the toolchain (packages that require the staged version of
+the toolchain cannot be published to queue.cppget.org). Upon release all the
+packages in this repository are moved to queue.cppget.org.
