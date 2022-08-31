@@ -2,4 +2,7 @@
 #
 *
 !.gitignore
+!alpha/
+!beta/
+!testing/
 !repositories.manifest

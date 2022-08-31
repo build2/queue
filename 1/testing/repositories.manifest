@@ -1,0 +1,45 @@
+# queue.stage.build2.org/testing
+#
+
+# cppget.org/testing
+#
+: 1
+role: prerequisite
+location: https://pkg.cppget.org/1/testing
+trust: 70:64:FE:E4:E0:F3:60:F1:B4:51:E1:FA:12:5C:E0:B3:DB:DF:96:33:39:B9:2E:E5:C2:68:63:4C:A6:47:39:43
+
+:
+url: https://queue.stage.build2.org
+email: users@build2.org
+summary: build2 staging queue package repository, testing section
+description:\
+This repository contains packages that are being staged for preliminary
+testing with the staged build2 toolchain.
+
+REPOSITORY POLICIES
+
+This section is transient and volatile; packages can be added or removed at
+any time and no history of these changes is kept.
+\
+certificate:\
+-----BEGIN CERTIFICATE-----
+MIIDNDCCAhygAwIBAgIJAOcDp4evE+zJMA0GCSqGSIb3DQEBCwUAMDUxFzAVBgNV
+BAoMDkNvZGUgU3ludGhlc2lzMRowGAYDVQQDDBFuYW1lOioqYnVpbGQyLm9yZzAe
+Fw0yMTAyMjQwODA3NDZaFw0zMTAyMjIwODA3NDZaMDUxFzAVBgNVBAoMDkNvZGUg
+U3ludGhlc2lzMRowGAYDVQQDDBFuYW1lOioqYnVpbGQyLm9yZzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAPQ7HS6aLZAhQ9XhA9yHjyOiuwwFarE5h59A
+Usf1XPho67o+bH78D2M0gtDMkRN8lQHFXQ8Yr2l5omIZwnP6O9HqrWV4FtF8//eH
+2xtRK7TPI/qNZWd7oM9emhR0kybzZ/GP+zLmvZhH7sUIgqSNuSR7MERtcqhQEwJ9
+8iP2lb5yJ/ms6DjFGWzony9N7S17zDaVAjuh6fB0BdJ+oQFjL7kGQtS3u1TWZRGp
+qkCH8+IEMhiC0hqNMK9JS7AD3y2118qcXUzhjAZUD5SyHHvdUgATvWwdMG/xwzmh
+6rs9FmgedIxngBLLkCzKcuTnvwqWkEe1gVeWkaoqR9cyLcipOUUCAwEAAaNHMEUw
+DgYDVR0PAQH/BAQDAgeAMBYGA1UdJQEB/wQMMAoGCCsGAQUFBwMDMBsGA1UdEQQU
+MBKBEGFkbWluQGJ1aWxkMi5vcmcwDQYJKoZIhvcNAQELBQADggEBAKdKRETtHW7Z
+SOJlc9fI4QDTljkW1xzj3z4XSJyqloTJ/eG7RMPsp9G19Hx5eRUI1Tnzw3nT1AfA
+jYybbZOzgIsr84cpY6Jv31C0TCy+DDQEJ3ghvehrA/6BfzR+Gbrg6NMH5CgQV5Xt
+S9mUSPWtyJqrpBohXBPkUl9b95Mh+j+N2xCEKspzgt3f0+QO4drNZs2D7fwO3kYa
+SCilLYvKMnjbgOoNF0ayNETy48SOxdysI1PCKSd0Wdoq37D0fXg/EuQinAXduI9p
+cCKMtLJor95HGMaPK4FK7TZ0j2n70Ql/fS7hx/jAxYPfaALKEV5tiq8IVlOnhTub
+mCudN0FFYJ8=
+-----END CERTIFICATE-----
+\
