@@ -11,10 +11,12 @@ trust: 70:64:FE:E4:E0:F3:60:F1:B4:51:E1:FA:12:5C:E0:B3:DB:DF:96:33:39:B9:2E:E5:C
 :
 url: https://queue.stage.build2.org
 email: users@build2.org
-summary: build2 staging queue package repository, testing section
+summary: build2 staging repository queue, testing section
 description:\
-This repository contains packages that are being staged for preliminary
-testing with the staged build2 toolchain.
+This section contains stable versions of packages that are being queued for
+preliminary testing with the staged version of the toolchain. Upon release
+all the packages in this section will be moved to the testing section of
+queue.cppget.org.
 
 REPOSITORY POLICIES
 
