@@ -1,5 +1,0 @@
-: 1
-name: crashpad-tests
-author-name: EmilRosenquist
-author-email: Emil.Rosenquist@gmail.com
-control: https://github.com/build2-packaging/crashpad.git
