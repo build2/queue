@@ -1,0 +1,4 @@
+: 1
+reviewed-by: Boris Kolpackov <boris@codesynthesis.com>
+result-build: fail
+details-url: https://example.org
