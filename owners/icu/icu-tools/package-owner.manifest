@@ -1,0 +1,5 @@
+: 1
+name: icu-tools
+author-name: Francois Kritzinger
+author-email: francois@codesynthesis.com
+control: https://git.build2.org/var/scm/packaging/icu/icu.git
